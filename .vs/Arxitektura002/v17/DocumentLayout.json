@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A584F98C-A540-4132-9E5E-EB205516488B}|ArxitekConsol2\\ArxitekConsol2.csproj|c:\\users\\rinat_pc\\source\\repos\\arxitektura002\\arxitekconsol2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A584F98C-A540-4132-9E5E-EB205516488B}|ArxitekConsol2\\ArxitekConsol2.csproj|solutionrelative:arxitekconsol2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|c:\\users\\rinat_pc\\source\\repos\\arxitektura002\\core\\helpers\\results\\abstract\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|solutionrelative:core\\helpers\\results\\abstract\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|c:\\users\\rinat_pc\\source\\repos\\arxitektura002\\core\\helpers\\results\\concrete\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|solutionrelative:core\\helpers\\results\\concrete\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D2064-2C58-443C-B180-70B660ECD35F}|Business\\Business.csproj|c:\\users\\rinat_pc\\source\\repos\\arxitektura002\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D2064-2C58-443C-B180-70B660ECD35F}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|c:\\users\\rinat_pc\\source\\repos\\arxitektura002\\core\\helpers\\results\\concrete\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|solutionrelative:core\\helpers\\results\\concrete\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|c:\\users\\rinat_pc\\source\\repos\\arxitektura002\\core\\helpers\\results\\concrete\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A3212-7DC9-455F-A2BD-78E8C7FA7C89}|Core\\Core.csproj|solutionrelative:core\\helpers\\results\\concrete\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\ArxitekConsol2\\Program.cs",
+              "RelativeDocumentMoniker": "ArxitekConsol2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\ArxitekConsol2\\Program.cs",
+              "RelativeToolTip": "ArxitekConsol2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:53:18.27Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Abstract\\IResult.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Results\\Abstract\\IResult.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Abstract\\IResult.cs",
+              "RelativeToolTip": "Core\\Helpers\\Results\\Abstract\\IResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:17:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Concrete\\DataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Results\\Concrete\\DataResult.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Concrete\\DataResult.cs",
+              "RelativeToolTip": "Core\\Helpers\\Results\\Concrete\\DataResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:38:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:10:20.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Concrete\\Result.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Results\\Concrete\\Result.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Concrete\\Result.cs",
+              "RelativeToolTip": "Core\\Helpers\\Results\\Concrete\\Result.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:07:56.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuccessResult.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Concrete\\SuccessResult.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Results\\Concrete\\SuccessResult.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\Arxitektura002\\Core\\Helpers\\Results\\Concrete\\SuccessResult.cs",
+              "RelativeToolTip": "Core\\Helpers\\Results\\Concrete\\SuccessResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:13:30.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
